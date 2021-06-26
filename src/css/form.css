@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,700;1,500&display=swap');
+.form {
+  width: 70%;
+  margin: auto;
+  margin-top: 5rem;
+}
+.input-1 {
+  font-size: 3rem;
+  border: 2px #048094 solid;
+  border-radius: 20px;
+  text-align: center;
+  padding: 8px;
+  font-family: 'Alegreya', serif;
+  font-weight: 700;
+}
+.btn{
+  padding: 5px;
+  border: 2px #048094 solid;
+  border-radius: 10px;
+  font-size: 1.8rem;
+  padding: 4px 15px;
+  margin-left: 10px;
+  font-family: 'Alegreya', serif;
+  font-weight: 500;
+}
+.btn:hover{
+    background: rgba(15, 6, 6, 0.349);
+    color: white;
+}
